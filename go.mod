@@ -1,4 +1,4 @@
-module github.com/gogf/guuid/v2
+module github.com/gogf/guuid
 
 go 1.16
 
