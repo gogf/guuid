@@ -7,10 +7,11 @@
 package guuid_test
 
 import (
-	"github.com/gogf/guuid"
 	"testing"
 
-	"github.com/gogf/gf/test/gtest"
+	"github.com/gogf/gf/v2/test/gtest"
+
+	"github.com/gogf/guuid/v2"
 )
 
 func Test_Basic(t *testing.T) {

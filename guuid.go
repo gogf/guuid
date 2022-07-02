@@ -18,8 +18,9 @@
 package guuid
 
 import (
-	"github.com/google/uuid"
 	"os"
+
+	"github.com/google/uuid"
 )
 
 // UUID representation compliant with specification
